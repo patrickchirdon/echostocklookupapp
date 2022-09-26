@@ -1,2 +1,46 @@
-[{"datetime":1657470161000,"headline":"Apple’s 10.2-inch iPad is back on sale for $299 | Engadget","source":"Newslanes","url":"https://cloud.iexapis.com/v1/news/article/3rmewksVV2cN4sSoEjG3KQ9wF7AVU9CXunqbusPNqcK3","summary":"Amazon’s annual Prime Day sale may not begin until next week, but you can already find a handful of deals on electronics like the 10.2-inch iPad. This weekend, the retailer has discounted both the 64GB and 256GB variants of Apple’s entry-level tablet. You can now buy the base model 10.2-inch iPad – in both silver […] Apple’s 10.2-inch iPad is back on sale for $299 | Engadget","related":"AAPL,AMZN","image":"https://cloud.iexapis.com/v1/news/image/3rmewksVV2cN4sSoEjG3KQ9wF7AVU9CXunqbusPNqcK3","lang":"en","hasPaywall":false},{"datetime":1657467962000,"headline":"Apple’s 10.2-inch iPad is back on sale for $299","source":"Techtelegraph","url":"https://cloud.iexapis.com/v1/news/article/3ZcECuvheSHHJ8LcuEEgddIwjBvIKK5bwGdgqoMJTzuq","summary":"Amazon’s annual Prime Day sale may not begin until next week, but you can already find a handful of deals on electronics like the 10.2-inch iPad. This weekend, the retailer has discounted both the 64GB and 256GB variants of Apple’s entry-level tablet. You can now buy the base model 10.2-inch iPad – in both silver […] The post Apple’s 10.2-inch iPad is back on sale for $299 appeared first on TECHTELEGRAPH .","related":"AAPL,AMZN","image":"https://cloud.iexapis.com/v1/news/image/3ZcECuvheSHHJ8LcuEEgddIwjBvIKK5bwGdgqoMJTzuq","lang":"en","hasPaywall":false},{"datetime":1657466504000,"headline":"Apple''s 10.2-inch iPad is back on sale for $299","source":"Engadget","url":"https://cloud.iexapis.com/v1/news/article/1kgJZsWpnwC0BHrRQTut7BpfEs9m7JHRWsvNp3GEnZi2","summary":"Amazon’s annual Prime Day sale may not begin until next week, but you can already find a handful of deals on electronics like the 10.2-inch iPad . This weekend, the retailer has discounted both the 64GB and 256GB variants of Apple’s entry-level tablet. You can now buy the base model 10.2-inch iPad – in both silver and space gray – for $299. A $30 discount off may not seem like much, but it effectively returns the iPad to its lowest price. As for the 256GB model, it’s currently $429, or $50 off its usual $479 price. Buy Apple iPad at Amazon - $299 Engadget deputy editor Nathan Ingraham awarded Apple’s ninth-generation iPad a score of 86 in 2021. The 10.2-inch iPad is a solid entry-level tablet. With the company’s A13 Bionic chip inside, the 2021 model is fast, and you can expect to get about 10 to 14 hours from the battery. The new model also features a much-improved 12-megapixel front-facing camera with Apple’s Center Stage technology. The feature helps keep you in the middle of the frame during video calls.","related":"AAPL,AMZN","image":"https://cloud.iexapis.com/v1/news/image/1kgJZsWpnwC0BHrRQTut7BpfEs9m7JHRWsvNp3GEnZi2","lang":"en","hasPaywall":false},{"datetime":1657461857000,"headline":"Antitrust bill targeting Amazon, Google, Apple may not exit Senate before summer recess","source":"Seeking Alpha","url":"https://cloud.iexapis.com/v1/news/article/KF0R71jLymzvE1b2Itu7V7svXteeqzez5KXqebxpHvx","summary":"An antitrust bill that that targets Amazon (AMZN), Google (GOOG) and Apple (AAPL) may not get out of the Senate before Congress recesses for the Summer.The American Innovation and…","related":"AAPL,GOOG,GOOGL,AMZN","image":"https://cloud.iexapis.com/v1/news/image/KF0R71jLymzvE1b2Itu7V7svXteeqzez5KXqebxpHvx","lang":"en","hasPaywall":false}]
-
+[
+  {
+    datetime: 1664211887000,
+    headline: 'Nio, BYD, China EV Makers Make Big Push Into Europe',
+    source: "Investor''s Business Daily",
+    url: 'https://cloud.iexapis.com/v1/news/article/3UP8svM6GaDCUhktzG3CwTIcZzLFZqIKJqxzfLscqk0R',
+    summary: 'Key to their growth plans, China EV makers Nio, BYD and Xpeng are ramping up in Europe. Can they grab share from traditional giants and Tesla?',
+    related: '002594-CS,BYDDF,BYDDY,BY6-GD,BY6-GS,BY6-GH,BY6-GM,BY6-GF,BY6-GB,BY6-GI,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI,NIO,XPEV,XPNGF',
+    image: 'https://cloud.iexapis.com/v1/news/image/3UP8svM6GaDCUhktzG3CwTIcZzLFZqIKJqxzfLscqk0R',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664209585000,
+    headline: 'Tesla Giga Berlin Recycling Area Catches Fire, Put Out by Fire Department',
+    source: 'Tesla North',
+    url: 'https://cloud.iexapis.com/v1/news/article/3dn81qmBCx26a9BKLvgbJaZ1309FWp5c4vQyN2x6mbqT',
+    summary: 'An outdoor area of Tesla’s German car plant caught fire, requiring the local fire department to enter the scene on Monday. A fire broke out at Tesla’s Giga Berlin in Grünheide, Germany on Monday, before the local fire department was called to extinguish the fire around 3:30 local time, as reported by Reuters. The fire […] The post Tesla Giga Berlin Recycling Area Catches Fire, Put Out by Fire Department appeared first on TeslaNorth.com .',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/3dn81qmBCx26a9BKLvgbJaZ1309FWp5c4vQyN2x6mbqT',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664206538000,
+    headline: 'Dear TSLA Stock Fans, Mark Your Calendars for Sept. 30',
+    source: 'InvestorPlace',
+    url: 'https://cloud.iexapis.com/v1/news/article/1n3qYta203cDMdkSEJP7IT4v9mXZDm0ExzWSA1LjaFxD',
+    summary: 'There’s one thing about Tesla (NASDAQ: TSLA ) that market experts know to be true; when the company kicks off a major event, it sends TSLA stock soaring. Elon Musk has proven to be a highly effective master of ceremonies, giving investors a lot to watch at both the Gigafactory Berlin Delivery Day and the Gigafactory Texas Cyber Rodeo . Now the electric vehicle (EV) leader is preparing for another important event, one that promises the reveal of several highly anticipated products and updates. Friday, Sept. 30 marks Tesla’s AI Day 2022 and the world is watching keenly to see what updates the company will reveal. TSLA stock spent most of last week on a downward trajectory as news of the latest Federal Reserve rate hike pushed markets down. This week, it shot up as markets opened and it hasn’t stopped since. As of this writing, it is up 2% for the morning and shows no signs of slowing down. This momentum is likely to continue as Friday’s event draws near. Tesla has a significant fan base and it will be eagerly standing by to learn more about some of the company’s most exciting new products.',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/1n3qYta203cDMdkSEJP7IT4v9mXZDm0ExzWSA1LjaFxD',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664206353000,
+    headline: 'Tesla’s Gigafactory in Berlin had a cardboard fire',
+    source: 'The Verge',
+    url: 'https://cloud.iexapis.com/v1/news/article/P00oakvG0FT15trCPTpBV5F3y6HfajfP9BhAMZIwgfQ',
+    summary: 'Illustration by Alex Castro / The Verge Tesla’s dealing with the aftermath of a fire on the grounds of its Gigafactory in Berlin early this morning. According to local reporting, Tesla’s factory fire brigade called for the assistance of local firefighters at 3:33AM , and more than 50 firefighters were involved in helping to extinguish a large burning pile of cardboard, paper, and wood ( via Electrek ). The fire occurred on the northeastern side of the property near a recycling facility. Tesla reportedly has a contracted recycling company that shreds materials there , but the cause of the fire remains unknown. “We demand a production stop until the causes and circumstances have been clarified” Local groups in Germany that have long opposed Tesla’s factory due to environmental… Continue reading…',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/P00oakvG0FT15trCPTpBV5F3y6HfajfP9BhAMZIwgfQ',
+    lang: 'en',
+    hasPaywall: false
+  }
+]
