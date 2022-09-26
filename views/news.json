@@ -1,0 +1,46 @@
+[
+  {
+    datetime: 1664153580000,
+    headline: 'Tesla recalls 1.1 million cars',
+    source: 'The Courier-Mail Australia',
+    url: 'https://cloud.iexapis.com/v1/news/article/3pphDGVkMBD4utyEfVxgcs8yAQBus2Cy688pB91YZNg1',
+    summary: 'Tesla will recall more than 1 million cars in America to address problematic power windows.',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/3pphDGVkMBD4utyEfVxgcs8yAQBus2Cy688pB91YZNg1',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664153025000,
+    headline: 'Tesla recalls 1.1 million cars in United States',
+    source: 'Big News Network',
+    url: 'https://cloud.iexapis.com/v1/news/article/29Fk84936TSpqkefM4wUC9IjQya805NjVEuZvtffCdwB',
+    summary: 'AUSTIN, Texas: Due to increased risks caused by a fault in its automatic window reversal system, electric vehicle maker Tesla has recalled nearly 1.1 million cars in the U.S. Tesla told the National Highway Traffic Safety Administration that it would conduct an over-the-air software update of the faulty system, which will cover some 2017-2022 Model 3, 2020-2021 Model Y, and 2021-2022 Model S and Model X vehicles',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/29Fk84936TSpqkefM4wUC9IjQya805NjVEuZvtffCdwB',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664151350000,
+    headline: 'Elon Musk faces deposition with Twitter lawyers',
+    source: 'The Washington Times',
+    url: 'https://cloud.iexapis.com/v1/news/article/3GIjWtvwi6vni9wUQiBFmdEeFoduth3XIAI5zPv074DW',
+    summary: 'Tesla CEO Elon Musk is scheduled to spend the next few days with lawyers for Twitter, answering questions ahead of an October trial that will determine whether he must carry through with his $44 billion agreement to acquire the social platform after attempting to back out of the deal.',
+    related: 'TWTR,TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI',
+    image: 'https://cloud.iexapis.com/v1/news/image/3GIjWtvwi6vni9wUQiBFmdEeFoduth3XIAI5zPv074DW',
+    lang: 'en',
+    hasPaywall: false
+  },
+  {
+    datetime: 1664151320000,
+    headline: 'Elliott Wave Analysis: S&P 500, AAPL, AMZN, NVDA, TSLA, GOOGL, BRK.B, SQ, META, NFLX and more [Video]',
+    source: 'FXStreet',
+    url: 'https://cloud.iexapis.com/v1/news/article/336rYuq9PTk6FdPocuEVF3WuwtFrqpqNVeZjKAevmLJg',
+    summary: 'Stocks: AAPL, AMZN, NVDA, TSLA, GOOGL, BRK.B, SQ, META, NFLX, ENPH, MSFT, BAC, JPM. Elliott Wave. US Stock Bear Market: AMZN, AAPL, NVDA, TSLA, GOOGL,',
+    related: 'TSLA,TL0-GD,TL0-GS,TL0-GH,TL0-GM,TL0-GF,TL0-GB,TL0-GY,TL0-GI,BAC,BAC-L,BAC-B,BAC-E,BAC-K,BAC-M,BAC-N,BAC-O,BAC-P,BAC-Q,BAC-S,BML-G,BML-H,BML-J,BML-L,MER-K,MSFT,MSF-GD,MSF-GS,MSF-GH,MSF-GM,MSF-GF,MSF-GB,MSF-GY,MSF-GI,GOOG,GOOGL,AMZN,NFLX,SQ,NVDA,NVD-GD,NVD-GS,NVD-GH,NVD-GM,NVD-GF,NVD-GB,NVD-GY,NVD-GI,JPM,JPM-C,JPM-D,JPM-J,JPM-K,JPM-L,ENPH,BRK.A,BRK.B',
+    image: 'https://cloud.iexapis.com/v1/news/image/336rYuq9PTk6FdPocuEVF3WuwtFrqpqNVeZjKAevmLJg',
+    lang: 'en',
+    hasPaywall: false
+  }
+]

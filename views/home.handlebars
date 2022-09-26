@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+
+    
+<style>
+div.background {
+  background: url('static/stock-market-thanksgiving-day-2021.jpg');
+  border: 2px solid black;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.9;
+  
+  
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
+
+</style>
+
+    <div class="transbox" style="height:5000%; width:100%";>
+    
+    <img src="2022_09_16_00a_Kleki.png" width="100%" height="100%">
+    
+	<h1>Overview</h1>
+	<button onclick="Func()">Show Details</button>
+	<p id="details"></p>
+
+
+	<script>
+	function Func() {
+		fetch("./views/overview.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details").innerHTML =
+			
+                
+               //
+               (data.close + "-" + "close" + "<br>" + data.changePercent + "-" + "change percent" + "<br>" + data.avgTotalVolume + " - " + "average total volume" + "<br>" +  data.low + "-" + "low" + "<br>" +   data.open  + "open" + "<br>" +  data.peRatio + "-" + "PE ratio" + "<br>" + data.week52High + "-" +  "week 52 high" + " <br> " +  data.week52Low + "-" + "week 52 low" +  "<br>" +  data.ytdChange + "-" + "ytd change"  ));
+               
+         
+            
+               
+
+	}
+	 
+        
+	</script>
+	
+
+
+	
+
+
+
+	<h1>Stats</h1>
+	<button onclick="Func2()">Show Details</button>
+	<p id="details1"></p>
+
+
+	<script>
+	function Func2() {
+		fetch("./views/stats.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details1").innerHTML =
+			
+                
+               
+               (data.marketcap + "-" + "marketcap" + "<br>"  + data.week52change + " - " + "week 52 change" + "<br>" + data.day200MovingAvg + " - " + "Day 200 Moving Average" + "<br>" + data.day50MovingAvg  + "-" + "day 50 moving average" + "<br>" + data.ttmEPS + "-" + "ttmEPS" + "<br>" +  data.ttmDividendRate + "-" + "ttm dividend rate"  + "<br>" + data.dividendYield + "-" + "dividend yield" +  "<br>" + data.beta + "-" + "beta"  + "<br>" + data.maxChangePercent + "-" + "max change percent" + "<br>" + data.year5ChangePercent + "-" + "year 5 change percent" + "<br>" + data.year2ChangePercent + "-" + "year 2 change percent" +"<br>" +  data.ytdChangePercent + "-" + "ytd change percent" + "<br>" + data.month6ChangePercent + "-" + "month 6 change percent" + "<br>" +  data.month3ChangePercent + "-" + "month 3 change percent" + "<br>" + data.month1ChangePercent + "-" + "month 1 change percent" + "<br>" + data.day30ChangePercent + "-" + "day 30 change percent" + "<br>" + data.day5ChangePercent + "-" + "day 5 change percent"
+
+
+
+
+                ));
+               
+          
+            
+               
+
+	}
+	 
+        
+	</script>
+	
+	
+	
+	<h1>Company Info</h1>
+	<button onclick="Func3()">Show Details</button>
+	<p id="details2"></p>
+
+
+	<script>
+	function Func3() {
+		fetch("./views/info.json")
+		.then((res) => {
+			return res.json();
+		})
+		.then((data) => document.getElementById("details2").innerHTML =
+			
+                
+               
+               (data.symbol + "-" + "symbol" + "<br>"  + data.companyName + " - " + "company name" + "<br>" + data.industry + " - " + "industry" + "<br>" + data.description  + "-" + "description" + "<br>" + data.CEO + "-" + "CEO" + "<br>" +  data.employees + "-" + "employees"  + "<br>" + data.address + "-" + "address" + "<br>" + data.state + "-" + "state" + "<br>" + data.city + "-" + "city"  + "<br>" + data.zip + "-" + "zip" + "<br>" + data.country + "-" + "country" + "<br>" + data.phone + "-" + "phone" 
+
+
+
+
+                ));
+               
+          
+            
+               
+
+	}
+	
+	
+  
+	 
+        
+	</script>
+	
+	  </div>
+
+	
+
+
+	
+</body>
+</html>
+
